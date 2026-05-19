@@ -70,25 +70,7 @@ const krish = {
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
 
-## 📦 Featured Projects
-
-### 🔍 Lost & Found Platform
-> Full-stack web app to report and recover lost items on campus
-
-- JWT authentication + RBAC for secure role-based access
-- RESTful API with optimized MongoDB queries
-- Real-time status tracking and notifications
-- Production-deployed on Render
-
-### 🍽 Restaurant POS System
-> Point-of-sale system supporting concurrent users and live order management
-
-- Secure payment gateway integration
-- Real-time order management with concurrent user support
-- Performance-optimized backend with Redis caching
-- End-to-end transaction security
 
 ---
 
