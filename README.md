@@ -12,6 +12,7 @@
 ### Full-Stack Engineer · IIIT Bhopal '27 · MERN · System Design
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-singh-6903652ba)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=googlechrome&logoColor=white)](https://krishsingh.in/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krish212004singh@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=singhkkrish&style=flat-square&color=0077B5)](https://github.com/singhkkrish)
 
