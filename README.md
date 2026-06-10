@@ -9,7 +9,6 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-<h1>KRISH SINGH</h1>
 
 ### Full-Stack Engineer · IIIT Bhopal '27 · MERN · System Design
 
